@@ -1,9 +1,5 @@
 # 👥 KeenKeeper — Keep Your Friendships Alive
 
-### 📅 Deadline For 60 marks: 17 April 2026 | ⏱️11:59PM
-
-### 📅 Deadline for 30 marks: Any time after 17 April 2026
-
 ---
 
 ## 🐣 Basic Requirements (Must Do for Everyone)
@@ -240,10 +236,3 @@ These are not required but will make your project stand out:
 Deploy your project on **Vercel**, **Netlify**, **Cloudflare Pages**, or anywhere else before submitting.
 
 ---
-
-## 📬 Submission
-
-Fill in both links before submitting:
-
-- **Live Link**:
-- **GitHub Repository Link**:

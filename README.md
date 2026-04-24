@@ -9,12 +9,7 @@
 - Your app must run without any errors after deployment
 - Add a nice `README.md` file with your project name, description, technologies used, and features
 
----
-
-## 🔧 Main Requirements — 50 Marks
-
----
-
+-
 ### 1. 🔝 Navbar
 
 **Navbar:**
